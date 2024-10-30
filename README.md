@@ -7,7 +7,7 @@ Project consists of a simple SQL script that walks the user through how I develo
 
 <h2>Languages and Utilities Used</h2>
 
-- <b>SQL</b> 
+- <b>SQL and MongoDB</b> 
 
 <h2>Environments Used </h2>
 
